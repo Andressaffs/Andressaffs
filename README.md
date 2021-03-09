@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/andressaffs/"> <img src="https://img.shields.io/badge/Andressa Ferreira-0077B5?style=flat-square" /> </a>
 </div>
 
-# **Hey! Welcome to my profile! How is it going? 👋**
+## **Hey! Welcome to my profile! How is it going? 👋**
 
 
 <!--
