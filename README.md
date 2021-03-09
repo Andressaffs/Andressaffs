@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/How to reach me-E640D2?style=flat-square"/>
+
+
+
+
+
+
 <!--
 **Andressaffs/Andressaffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
