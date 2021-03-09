@@ -1,5 +1,5 @@
 
-<img align="center" src="https://github.com/Andressaffs/Andressaffs/blob/main/image%20(2).png" width="350"/>
+<img align="center" src="https://github.com/Andressaffs/Andressaffs/raw/main/image%20(3).png" />
 <br>
 <div align="center"> 
 <img src="https://img.shields.io/badge/How to reach me-E640D2?style=flat-square"/>
