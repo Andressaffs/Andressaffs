@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/How to reach me-E640D2?style=flat-square"/>
 <a href="https://www.linkedin.com/in/andressaffs/"> <img src="https://img.shields.io/badge/Andressa Ferreira-0077B5?style=flat-square" /> </a>
 </div>
-
+<br>
 
 <img align="right" src="https://github.com/Andressaffs/Andressaffs/raw/main/pink_computer.png" width="350"/>
 
