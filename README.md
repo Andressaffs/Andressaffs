@@ -1,12 +1,12 @@
 
-
+<img align="center" src="https://github.com/Andressaffs/Andressaffs/blob/main/image%20(2).png" width="350"/>
+<br>
 <div align="center"> 
 <img src="https://img.shields.io/badge/How to reach me-E640D2?style=flat-square"/>
 <a href="https://www.linkedin.com/in/andressaffs/" target="_blank"> <img src="https://img.shields.io/badge/Andressa Ferreira-0077B5?style=flat-square" /> </a>
 </div>
 <br>
 
-<img align="right" src="https://github.com/Andressaffs/Andressaffs/raw/main/pink_computer.png" width="350"/>
 
 ## **Hey! Welcome to my profile! How is it going? 👋**
 
