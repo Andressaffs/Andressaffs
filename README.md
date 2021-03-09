@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/andressaffs/"> <img src="https://img.shields.io/badge/Andressa Ferreira-0077B5?style=flat-square" /> </a>
 </div>
 
+
+<img align="left" src="https://github.com/Andressaffs/Andressaffs/raw/main/pink_computer.png"/>
+
 ## **Hey! Welcome to my profile! How is it going? 👋**
 
 - :books: Estou estudando no Bootcamp da Generation Brasil 
