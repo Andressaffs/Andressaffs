@@ -7,6 +7,9 @@
 
 ## **Hey! Welcome to my profile! How is it going? 👋**
 
+- :books: Estou estudando no Bootcamp da Generation Brasil 
+- :rocket: Desenvolvedor Full Stack Jr. 
+- :computer: Java | MySQL | HTML | CSS | JavaScript | BootStrap | Angular | Eclipse 
 
 <!--
 **Andressaffs/Andressaffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
