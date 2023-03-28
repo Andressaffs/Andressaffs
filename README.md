@@ -10,5 +10,5 @@
 
 ## **Hey! Welcome to my profile! How is it going? 👋**
 
-- :books: Full Stack Developer.
-- :computer: Java | MySQL | HTML | CSS | JavaScript | TypeScript | BootStrap | Angular | Eclipse 
+- :books: Back End Developer.
+- :computer: Java | SpringBoot | NoSQL | AWS Services | Kafka | Docker 
