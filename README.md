@@ -11,4 +11,4 @@
 ## **Hey! Welcome to my profile! How is it going? 👋**
 
 - :books: Back End Developer.
-- :computer: Java | SpringBoot | NoSQL | AWS Services | Kafka | Docker 
+- :computer: Java | SpringBoot | Kotlin | Micronaut | NoSQL | AWS Services | Kafka | Docker 
